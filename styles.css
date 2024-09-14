@@ -1,0 +1,41 @@
+body{
+    background-color: #024E68; /* Цвет фона веб-страницы */
+	
+   }
+h1{
+  font-family: "Press Start 2P"; /* Стиль текста */
+  font-size: 3.2em; /* Размер текста */
+  color: #3AAACF;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+p{
+  font-family: "Pixelify Sans"; /* Стиль текста */
+  font-size: 2.2em; /* Размер текста */
+  color: #60B9CE;
+  text-align: justify;
+  text-shadow: 2px 2px 4px #34C6CD;
+  line-height: 1.5
+
+  }
+h2{
+  font-family: "Press Start 2P"; /* Стиль текста */
+  font-size: 2.6em; /* Размер текста */
+  color: #04819E;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+.class1 {border: 8px solid rgba(0, 0, 0, 0.5); /* прозрачная рамка */
+  padding: 20px; /* отступ внутри контейнера */
+  border-radius: 50px
+}
+.class2 {border: 8px solid rgba(0, 0, 0, 0.5); /* прозрачная рамка */
+padding: 20px; /* отступ внутри контейнера */
+border-radius: 50px
+}
+.class3 {border: 8px solid rgba(0, 0, 0, 0.5); /* прозрачная рамка */
+  padding: 20px; /* отступ внутри контейнера */
+  border-radius: 50px
+}  
+
