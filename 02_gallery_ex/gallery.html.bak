@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Галерея CosmoFarmer</title>
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+<div class="content">
+  <h1>Виды транспорта -обычные </h1>
+  <p class="intro">Выбор транспорта для обычного путешествия. <strong>CosmoFarmer.com</strong> в компании &#8220;Apartment Laboratory&#8221;. </p>
+  <div class="gallery">
+    <figure>
+       <img src="../images/cocos.jpg" alt="самолет" width="200" height="200">
+      <figcaption>Рисунок 1: Это самолет обычный.</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/cocos2.jpg" alt="корабль" width="200" height="200">
+      <figcaption>Рисунок 2: Это корабль обычный</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/cocos3.jpg" alt="машина" width="200" height="200">
+      <figcaption>Рисунок 3: Это машина обычная. </figcaption>
+    </figure>
+    <figure>
+       <img src="../images/cocos4.jpg" alt="лошадь" width="200" height="200">
+      <figcaption>Рисунок 4: Это лошадь обычная. </figcaption>
+    </figure>
+    <figure>
+       <img src="../images/cocos5.jpg" alt="вертолет" width="200" height="200">
+      <figcaption>Рисунок 5: Это вертолет обычный. </figcaption>
+    </figure>
+    <figure>
+       <img src="../images/cocos6.jpg" alt="поезд" width="200" height="200">
+      <figcaption>Рисунок 6: Это поезд обычный. </figcaption>
+    </figure>
+	</div>
+  <p class="copyright">Собственность 2015, CosmoFarmer.com </p>
+</div>
+</body>
+</html>
